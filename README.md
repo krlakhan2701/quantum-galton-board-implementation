@@ -25,10 +25,10 @@ Womanium WISER Project-2025
 
 ### **Team Name: Jack & Sparrow** 🎯
 
-| **Member** | **Full Name** |  | **WISER Enrollment ID** |
+| **Member** | **Full Name** |**Github Username**  | **WISER Enrollment ID** |
 |------------|---------------|----------|-------------------------|
-| **1** | [Kumar Lakhan] |  | [gst-Y3o4YPrJ4ni7ZhG] |
-| **2** | [Mahe Noor Fatima] | | [gst-DYsfBU1rCK6NKxn] |
+| **1** | [Kumar Lakhan] |krlakhan2701  | [gst-Y3o4YPrJ4ni7ZhG] |
+| **2** | [Mahe Noor Fatima] |mahenoorf | [gst-DYsfBU1rCK6NKxn] |
 
 
 
