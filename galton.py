@@ -45,7 +45,7 @@ if __name__ == "__main__":
     plt.xticks(x)
     plt.grid(axis='y')
     plt.show()
-    plt.savefig("filename.png")
+    plt.savefig("figure1.png")
     
 from collections import defaultdict
 
@@ -69,7 +69,7 @@ plt.title('Quantum Galton Board Output Distribution\nGrouped by number of 1 bits
 plt.xticks(x)
 plt.grid(axis='y')
 plt.show()
-plt.savefig("filename.png")
+plt.savefig("figure2.png")
 
 #output as exponential distribution
 #This circuit creates an approximate exponential-like distribution:
@@ -98,7 +98,7 @@ def exponential_distribution(n_qubits: int, lam: float = 1.0, shots: int = 10000
     plt.title(f"Exponential Distribution (n_qubits={n_qubits}, λ={lam})")
     plt.grid(axis='y')
     plt.show()
-    plt.savefig("filename.png")
+    plt.savefig("figure3.png")
 
 # Example usage
 exponential_distribution(n_qubits=8, lam=1.0, shots=10000)
@@ -163,4 +163,4 @@ plt.axvline(n_steps + 1 + theoretical_std, color='green', linestyle=':', label='
 plt.axvline(n_steps + 1 - theoretical_std, color='green', linestyle=':')
 plt.legend()
 plt.show()
-plt.savefig("filename.png")
+plt.savefig("figure4.png")

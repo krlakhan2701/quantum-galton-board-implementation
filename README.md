@@ -14,7 +14,7 @@ Womanium WISER Project-2025
 |---------------|-------------|
 | **Project Title** | Quantum Galton Board Implementation: Universal Statistical Simulator |
 | **Program** | Womanium WISER - Quantum+AI Fellowship 2025 |
-| **Repository** | `https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME]` |
+| **Repository** | https://github.com/krlakhan2701/quantum-galton-board-implementation.git |
 | **Status** | ✅ Final Submission - Version 1.0 |
 | **License** | MIT Open Source License |
 | **Last Updated** | August 02, 2025 |
@@ -99,9 +99,6 @@ This project is released under the **MIT License**, promoting open science and e
 
 ---
 
-**Repository Link:** [https://github.com/[your-username]/quantum-galton-board](https://github.com/[your-username]/quantum-galton-board)
+**Repository Link:** [https://github.com/krlakhan2701/quantum-galton-board-implementation.git]
 
-*Last Updated: August 02, 2025 | Version: 1.0 | Status: Final Submission*
-
-
-
+*Last Updated: August 03, 2025 | Version: 1.0 | Status: Final Submission*
