@@ -49,6 +49,12 @@ The implementation introduces cutting-edge features including adaptive noise mod
 We provide comprehensive verification of quantum computational advantage through detailed complexity analysis and empirical benchmarking studies. The quantum implementation requires only O(log n) circuit depth compared to O(2^n) classical computation time for complete statistical trajectory simulation, making it practically viable for deployment on near-term quantum devices. This work enables immediate applications in computational finance, Monte Carlo simulation acceleration for scientific computing, and quantum machine learning for advanced generative modeling architectures.
 
 
+## 🧪 Requirements
+
+- Python 3.8+
+- NumPy
+- Matplotlib
+- Jupyter Notebook (for interactive simulation)
 
 ## Key Technical Results
 
@@ -84,13 +90,11 @@ We provide comprehensive verification of quantum computational advantage through
 - PennyLane Documentation: [https://pennylane.ai/](https://pennylane.ai/)
 - Quantum Circuit Learning: [https://pennylane.ai/qml/](https://pennylane.ai/qml/)
 
-## Project Presentation
+## 📄 Project Presentation
 
-📊 **[View Our Complete Project Presentation (PDF)](./presentationQuantum_Galton_Board_Presentation.pdf)**
-## Project Presentation
+[Click here to view the presentation PDF](https://github.com/krlakhan2701/quantum-galton-board-implementation/raw/main/presentationQuantum_Galton_Board_Presentation.pdf)
 
-[Click here to view the presentation](https://github.com/krlakhan2701/quantum-galton-board-implementation/raw/main/presentationQuantum_Galton_Board_Presentation.pdf)
-
+[![Download Presentation](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/krlakhan2701/quantum-galton-board-implementation/raw/main/presentationQuantum_Galton_Board_Presentation.pdf)
 
 *Click the link above to download and view our comprehensive 18-slide presentation covering:*
 - Problem statement and quantum advantage demonstration
@@ -99,6 +103,7 @@ We provide comprehensive verification of quantum computational advantage through
 - NISQ hardware compatibility and noise modeling
 - Performance benchmarks and complexity analysis
 - Applications, impact, and future development roadmap
+# Quantum Galton Board Implementation
 
 ## Acknowledgments
 
