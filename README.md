@@ -84,6 +84,22 @@ We provide comprehensive verification of quantum computational advantage through
 - PennyLane Documentation: [https://pennylane.ai/](https://pennylane.ai/)
 - Quantum Circuit Learning: [https://pennylane.ai/qml/](https://pennylane.ai/qml/)
 
+## Project Presentation
+
+📊 **[View Our Complete Project Presentation (PDF)](./presentationQuantum_Galton_Board_Presentation.pdf)**
+## Project Presentation
+
+[Click here to view the presentation](https://github.com/krlakhan2701/quantum-galton-board-implementation/raw/main/presentationQuantum_Galton_Board_Presentation.pdf)
+
+
+*Click the link above to download and view our comprehensive 18-slide presentation covering:*
+- Problem statement and quantum advantage demonstration
+- Technical implementation with PennyLane framework
+- Experimental results and statistical validation
+- NISQ hardware compatibility and noise modeling
+- Performance benchmarks and complexity analysis
+- Applications, impact, and future development roadmap
+
 ## Acknowledgments
 
 We extend our sincere gratitude to:
